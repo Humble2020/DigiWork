@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "dgSpecHash": "r2cenXONxi03bxzHnXBMo0o4RjybrZXrTYsxU7oXn6w9551g8RPid8Ozpr5TIapO7JdnySWZ1YVLGJd/cBfHUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\DigiWork_MobileAPP\\DigiWork_MobileAPP\\DigiWork_MobileAPP.iOS\\DigiWork_MobileAPP.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\mongodb.bson\\2.13.2\\mongodb.bson.2.13.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\mongodb.driver\\2.13.2\\mongodb.driver.2.13.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\mongodb.driver.core\\2.13.2\\mongodb.driver.core.2.13.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\mongodb.libmongocrypt\\1.2.2\\mongodb.libmongocrypt.1.2.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\sharpcompress\\0.23.0\\sharpcompress.0.23.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\sharpnado.forms.horizontallistview\\1.8.2\\sharpnado.forms.horizontallistview.1.8.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\sharpnado.materialframe\\1.2.0\\sharpnado.materialframe.1.2.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\sharpnado.shadows\\1.2.0\\sharpnado.shadows.1.2.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\sharpnado.tabs\\2.2.0\\sharpnado.tabs.2.2.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\sharpnado.taskmonitor\\1.0.2\\sharpnado.taskmonitor.1.0.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\thomaslevesque.weakevent\\4.1.0\\thomaslevesque.weakevent.4.1.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\xamarin.forms.pancakeview\\2.3.0.759\\xamarin.forms.pancakeview.2.3.0.759.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Essentials from 1.7.0 to 1.6.1. Reference the package directly from the project to select a different version. \r\n DigiWork_MobileAPP.iOS -> DigiWork_MobileAPP -> Xamarin.Essentials (>= 1.7.0) \r\n DigiWork_MobileAPP.iOS -> Xamarin.Essentials (>= 1.6.1)",
+      "libraryId": "Xamarin.Essentials",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
+}
